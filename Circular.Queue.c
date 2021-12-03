@@ -1,3 +1,4 @@
+//Code is written in C language only
 //Circular QUEUE
 //ADITYA RAJPOOT;;
 #include<stdio.h>
